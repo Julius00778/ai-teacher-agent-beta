@@ -1,2 +1,3 @@
-# ai-teacher-agent-beta
-AI animated teaching agent (beta)
+# AI Teacher Agent - Beta
+
+Setup instructions inside.
